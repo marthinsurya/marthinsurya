@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My name is Marthin. Currently pursuing a master’s degree in embedded systems, and hopefully it will take me on an exciting journey.
+MSc Embedded Systems (KTH) | FPGA/HLS, DSP & embedded software | Former NEC systems engineer | Stockholm
